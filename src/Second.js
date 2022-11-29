@@ -1,5 +1,4 @@
 import React from 'react'
-import { BigPlayButton, ControlBar, ForwardControl, Player } from 'video-react'
 import "./Second.css"
 import "../node_modules/video-react/dist/video-react.css"; // import css
 import ReactPlayer from 'react-player';
