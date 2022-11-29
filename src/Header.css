@@ -1,0 +1,31 @@
+
+.search{
+    display:flex;
+    align-items: center;
+    border: 2px solid lightgray;
+    padding:9px;
+    border-radius: 8px;
+    width:fit-content;
+    margin:10px 0 10px 1100px;
+    padding-right: 11rem;
+
+  }
+  .header >h1{
+    font-weight: 620;
+    font-size: 1.8rem;
+    color: rgb(50 67 113);
+    width:fit-content;
+    margin:10px auto 30px;
+  }
+  .search >input{
+    border:none;
+    background: transparent;
+    outline-width: 0;
+  }
+  .search >input::placeholder{
+    font-weight: 500;
+    color:gray;
+  }
+  .search >i{
+    margin-right:8px
+  }

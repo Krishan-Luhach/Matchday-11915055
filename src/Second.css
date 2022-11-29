@@ -1,0 +1,26 @@
+.header_second{
+   background-color: #EAEAEA;
+   display:flex;
+   justify-content: center;
+   padding: 5px 5px 0 5px;
+}
+.tag{
+    border-bottom:2px solid black;
+   width:30%;
+   display:flex;
+   justify-content: center;
+}
+.header_second >i{
+   position: absolute;
+   left:3px;
+   top:10px
+}
+.video{
+   margin:70px auto;
+   width:80vh;
+    
+}
+button{
+   margin:10px;
+   font-weight: 700;
+}

@@ -1,0 +1,13 @@
+.App{
+  margin:5px;
+  margin-top: 2%;
+  display:flex;
+  flex-direction: column;
+}
+
+.footer{
+  display: grid;
+  
+  grid-template-columns: auto auto auto;
+  margin-top: 2%;
+}
